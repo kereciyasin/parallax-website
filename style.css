@@ -28,11 +28,9 @@ div {
   align-items: center;
   justify-content: center;
 }
-
 #section1 {
   background-image: url("./img/bg.jpg");
 }
-
 #section2 {
   background-image: url("./img/bg2.jpg");
 }
